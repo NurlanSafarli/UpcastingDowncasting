@@ -1,0 +1,14 @@
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\bin\Debug\net6.0\UpcastingDowncastingTask.exe
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\bin\Debug\net6.0\UpcastingDowncastingTask.deps.json
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\bin\Debug\net6.0\UpcastingDowncastingTask.runtimeconfig.json
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\bin\Debug\net6.0\UpcastingDowncastingTask.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\bin\Debug\net6.0\UpcastingDowncastingTask.pdb
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\obj\Debug\net6.0\UpcastingDowncastingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\obj\Debug\net6.0\UpcastingDowncastingTask.AssemblyInfoInputs.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\obj\Debug\net6.0\UpcastingDowncastingTask.AssemblyInfo.cs
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\obj\Debug\net6.0\UpcastingDowncastingTask.csproj.CoreCompileInputs.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\obj\Debug\net6.0\UpcastingDowncastingTask.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\obj\Debug\net6.0\refint\UpcastingDowncastingTask.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\obj\Debug\net6.0\UpcastingDowncastingTask.pdb
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\obj\Debug\net6.0\UpcastingDowncastingTask.genruntimeconfig.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\Upcasting Downcasting\UpcastingDowncastingTask\obj\Debug\net6.0\ref\UpcastingDowncastingTask.dll
